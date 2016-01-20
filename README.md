@@ -10,4 +10,4 @@ I can get the IP address, language and operating system for my browser.
 
 ## Usage
 
-https://request-header-parser-fcc-priyesht.c9users.io/api/whoami
+https://priyesht-request-header.herokuapp.com/api/whoami

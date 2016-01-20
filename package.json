@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/PriyeshT/request-header-parser-fcc.git"
   },
-  "homepage": "https://request-header-parser-fcc-priyesht.c9users.io/",
+  "homepage": "https://priyesht-request-header.herokuapp.com/",
   "bugs": "https://github.com/PriyeshT/request-header-parser-fcc/issues",
   "keywords": [
     "full stack",
@@ -27,5 +27,8 @@
     "locale": "0.0.20",
     "ua-parser": "^0.3.5",
     "ua-parser-js": "^0.7.10"
+  },
+  "engines":{
+    "node" : "4.2.4"
   }
 }
