@@ -1,0 +1,60 @@
+/********* Fonts **********/
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url('../fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url('../fonts/Roboto-Medium.ttf') format('truetype');
+}
+
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+
+custom-header {
+	color: #00BCD4;
+	height: 56px;
+	margin: 0 0 14px 0;
+	text-align: center;
+}
+
+custom-header p {
+	margin: 16px 0 5px 0;
+}
+
+p {
+	margin: 16px 0 0 0;
+}
+
+img {
+	margin: 0 auto;
+	display: block;
+}
+
+.clementine-text { /* Styling for the Clementine.js text */
+	padding: 0;
+	margin: -25px 0 0 450px;
+	font-weight: 500;
+	font-size: 36px;
+	color: #FFA000;
+}
+
+.button-icons {
+    margin: -8px 0 0 450px;
+}
+
+.red{
+    color: red;
+}
